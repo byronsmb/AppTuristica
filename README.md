@@ -1,16 +1,4 @@
-# diseno_images
+App UI para usar con imagenes turisticas con diseño estilo mosaico.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/user-attachments/assets/2b00677c-b3a3-41f7-a43a-6d1dae80c2ba)
+>>>>>>> b57e3951d8f39495d1d34b8fb1146bf1652791d2
