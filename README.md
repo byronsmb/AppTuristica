@@ -1,1 +1,2 @@
-App UI con imagenes con diseño estilo ... 
+App UI para usar con imagenes turisticas con diseño estilo mosaico.
+
